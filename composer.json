@@ -1,0 +1,12 @@
+{
+  "require": {
+    "illuminate/database": "4.2.6",
+    "wixel/gump": "dev-master"
+  },
+  "autoload": {
+    "classmap": [
+      "application/models/"
+    ]
+  }
+}
+
