@@ -1,6 +1,6 @@
 {
   "require": {
-    "illuminate/database": "4.2.6",
+    "illuminate/database": "6.20.26",
     "wixel/gump": "dev-master"
   },
   "autoload": {
